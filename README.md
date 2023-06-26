@@ -44,8 +44,8 @@ For SageMaker JumpStart, the file would look similar to the following:
 Addition                                             | Date           
 ---------------------------------------------------- | ---------------
 Testing                                              | 2023/06/26
-                                                     | 
+.                                                     | 
 UPCOMING                                             | 
-                                                     |   
+.                                                     |   
 Rekognition FAQs                                     | 2023/06/??  
 SageMaker FAQs                                       | 2023/06/??  
