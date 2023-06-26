@@ -1,10 +1,10 @@
 # Fine Tuning with Custom Prompts
 
-SageMaker JumpStart models offer the ability to be fine tuned using your own data in the form of custom prompts. 
+SageMaker JumpStart models offer the ability to fine tune models using your own data in the form of custom prompts. 
 
 # How to Create Custom Prompts
 
-The prompts are found in the file data.jsonl. This file is needed to fine tune the model
+The prompts are found in the file data.jsonl. 
 
 From SageMaker JumpStart:
 
@@ -16,7 +16,7 @@ From SageMaker JumpStart:
 
 *Validation data can be separately provided. If no validation data is given, the training data is split into a training and validation set.*
 
-# What is JSONL?
+# What is JSONL? Can I see an example?
 
 JSONL is a type of JSON called JSON Lines. It's just a bit more strict (and readable) than JSON can sometimes be. Here's an example (taken from here<https://github.com/aws/amazon-sagemaker-examples/blob/main/sagemaker_processing/spark_distributed_data_processing/data/data.jsonl>):
 
