@@ -38,3 +38,14 @@ For SageMaker JumpStart, the file would look similar to the following:
 {"prompt":"What is the freezing temperature of water?","completion":"Water freezes at 32 degrees Fahrenheit, which is the same as 0 degrees Celsius"}    
 {"prompt":"What is XKCD?","completion":"XKCD is a webcomic written and illustrated by Randall Munroe"}    
 ```
+
+# Additions and planned updates
+
+Addition                                             | Date           
+---------------------------------------------------- | ---------------
+Testing                                              | 2023/06/26
+                                                     | 
+UPCOMING                                             | 
+                                                     |   
+Rekognition FAQs                                     | 2023/06/??  
+SageMaker FAQs                                       | 2023/06/??  
